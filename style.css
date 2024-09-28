@@ -25,19 +25,19 @@ body{
     min-width: 300px;
 }
 .bg-1{
-    background-image: url(/images/banner\ org.jpg);
+    background-image: url(images/banner\ org.jpg);
     background-size: cover;
     background-position: center;
    
 }
 .bg-2{
-    background-image: url(/images/banner\ 2.1.jpg);
+    background-image: url(images/banner\ 2.1.jpg);
     background-size: cover;
     background-position: center;
    
 }
 .bg-3{
-    background-image: url(/images/banner\ 3.jpg);
+    background-image: url(images/banner\ 3.jpg);
     background-size: cover;
     background-position: center;
    
